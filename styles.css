@@ -1,0 +1,31 @@
+body{
+    background-color: darkslategrey;
+    text-align: center;
+}
+.Player{
+    display: inline-block;
+    padding:0 50px 20px 50px;
+}
+
+h1{
+    font-family: monoton;
+    font-size: 4rem;
+    font-weight:250;
+    color: rgb(220, 207, 20);
+    padding-bottom: 5px;
+    font-style: oblique;
+}
+h2{
+    font-family: Dancing Script;
+    font-size: 3rem;
+    color: wheat;
+}
+.winner{
+    font-size: 3.5rem;
+    color: deeppink;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-weight: lighter;
+    font-style: normal;
+
+}
